@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software developer with more than 4 years of experience in applications using React Native, JavaScript, TypeScript, Django, Python, among others. Demonstrating my ability and passion for learning new technologies and ways to make quality software. I am motivated by mobile development, yet I am always willing to adapt to new challenges that take my skills to another level.</p>
+<p align="left">Software developer with more than 5 years of experience in applications using React Native, JavaScript, TypeScript, Django, Python, among others. Demonstrating my ability and passion for learning new technologies and ways to make quality software. I am motivated by mobile development, yet I am always willing to adapt to new challenges that take my skills to another level.</p>
 
 ###
 
